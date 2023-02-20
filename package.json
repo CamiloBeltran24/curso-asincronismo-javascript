@@ -1,0 +1,23 @@
+{
+  "name": "curso-asincronismo-javascript",
+  "version": "1.0.0",
+  "description": "Curso de asincronismo con javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamiloBeltran24/curso-asincronismo-javascript.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Asincronismo"
+  ],
+  "author": "Christian Camilo Beltran cambelf.dev@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CamiloBeltran24/curso-asincronismo-javascript/issues"
+  },
+  "homepage": "https://github.com/CamiloBeltran24/curso-asincronismo-javascript#readme"
+}
