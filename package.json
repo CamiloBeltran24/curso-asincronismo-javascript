@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/CamiloBeltran24/curso-asincronismo-javascript/issues"
   },
-  "homepage": "https://github.com/CamiloBeltran24/curso-asincronismo-javascript#readme"
+  "homepage": "https://github.com/CamiloBeltran24/curso-asincronismo-javascript#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
