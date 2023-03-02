@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/CamiloBeltran24/curso-asincronismo-javascript#readme",
   "dependencies": {
+    "node-fetch": "^3.3.0",
     "xmlhttprequest": "^1.8.0"
-  }
+  },
+  "type": "module"
 }
